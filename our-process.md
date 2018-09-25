@@ -156,3 +156,7 @@ We guarantee all our work against defects in materials and workmanship for three
 > There is something that I will treasure as much as the opportunity of working with the new organ: the opportunity of becoming acquainted with the people who built this marvelous instrument with so much care and love for what they are doing. The thoughtful, courteous, generous, and caring attitudes which the people at C. B. Fisk have shown in their relationship with the people of First Presbyterian Church are also things of great value. In this respect, to say nothing of the extraordinary instrument you have built for us, we are beneficiaries of something which is truly priceless.
 
 > Sincerely yours, Douglas Reed Organist First Presbyterian Church Evansville, Indiana
+
+--------------------------------------------------------------------------------
+
+[Back to top](#)
