@@ -19,7 +19,7 @@
 - [Setup](#setup)
 - [Support](#support)
 
-## Getting started
+## Getting Started
 
 How to get started - Things to consider in the early stages.
 
