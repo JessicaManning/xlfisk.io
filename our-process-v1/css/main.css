@@ -1,0 +1,34 @@
+body {
+  background-color: #eee;
+}
+
+#nav-secondary {
+  !border: 1px solid #000;
+}
+
+#nav-secondary ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#nav-secondary a {
+  display: block;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  padding: 1em;
+  border: 1px solid gold;
+}
+
+section {
+  background-color: white;
+  padding: 1em;
+  border: 1px solid #FF5733;
+  border-radius: .5em;
+}
+
+.icon {
+  font-size: 2em;
+  text-align: center;
+  padding: .5em 0;
+}
