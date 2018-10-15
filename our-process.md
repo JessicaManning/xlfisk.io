@@ -35,7 +35,7 @@ If you are considering builders for a new organ or just wondering where to begin
 
 [Back to top](#our-process)
 
-> Contrasts notwithstanding, each of these pipe organs has in common excellent design, exemplary craftsmanship, and artistic fidelity. They make you want to play them. They teach you about the music. They are superb.
+> Contrasts not withstanding, each of these pipe organs has in common excellent design, exemplary craftsmanship, and artistic fidelity. They make you want to play them. They teach you about the music. They are superb.
 
 > Gerre Hancock Organist and Master of Choristers St. Thomas Episcopal Church New York, New York
 
