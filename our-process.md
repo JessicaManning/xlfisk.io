@@ -25,15 +25,13 @@ How to get started - Things to consider in the early stages.
 
 ### Request for Information
 
-Most projects begin with a request for information from an organist or music director, church organ committee, a prospective donor, an architect or designer at a concert hall, or a college or university organist. You may wish to know what we have done in the past that may be similar to the situation in which you find yourself. We have attempted to provide a partial answer to that question in our [Instruments](#) section, where we have divided our list of completed work by opus number, by location, by venue, and by size. As designers and builders of custom instruments we hope you will see the breadth of our experience, and that we treat each project individually. Even if you do not see a completed organ similar to your vision, we can help.
+Your pipe organ project will likely begin with a question: Have we built successful instruments in venues similar to yours? When could a new organ be delivered? What might the costs be? How would we work together?
 
-Some clients do not feel they have sufficient knowledge of the organ to make the choices necessary in acquiring a new instrument and decide to hire a consultant. Consultants can often help people assess their needs and wishes and then discover organbuilders who can realize their goals. We are ready to work with you directly, or through your consultant. The American Guild of Organists offers several books that clarify the issues that may arise in purchasing a pipe organ. You can find them on the [AGO web site](https://ago.networkats.com/members_online/members/createorder.asp?action=catalog&catalog=INST&af=AGOG).
+Naturally cost is a primary concern. At this time a rough estimate may be possible but before actual budgets or fund raising goals are set a more complete assessment of your requirements and circumstances will be necessary.
 
-How soon can an organ be delivered? We build instruments in the order in which the contracts are signed, unless customers experience delays in the readiness of their buildings. Our experience and our production data enable us to give you a realistic and accurate estimate of when an organ of a given size may be delivered, how long installation will take, and how long voicing will require. In an industry plagued by late delivery we have been on time or ahead of schedule for the last fifteen years.
+Perhaps you don’t feel you have sufficient understanding of the instrument to navigate these important decisions. Your church or organization may wish to engage a consultant to help assess your needs and goals and identify the firms most able to realize them. We are ready to work with you directly or through your consultant.
 
-One of the most frequently asked questions concerns approximate costs. We price instruments in their entirety, not per stop, or set, of pipes. Not all sets of pipes are equal in price. At the early stages it is sometimes possible to give a rough estimate based on the size of the room and the uses to which an organ will be put, but for actual budgeting or fund raising purposes it is best to wait until we have been able to more fully assess your needs and make a full proposal.
-
-If you are thinking about a new organ, we are always happy to talk. We do not have any high-pressure sales staff. When you call C. B. Fisk you will be talking to the very people who build the instruments themselves. It is our pleasure to help make your vision a reality. We hope you will give us the opportunity to do our best work for you.
+If you are considering builders for a new organ or just wondering where to begin, we are always happy to talk. When you call the Fisk workshop you will be speaking with the very people who build the instruments. It is our pleasure to help make your vision a reality. We hope you will give us the opportunity to do our best work for you.
 
 [Back to top](#our-process)
 
@@ -43,7 +41,13 @@ If you are thinking about a new organ, we are always happy to talk. We do not ha
 
 ### Visit a Fisk Instrument
 
-TBA
+There is no better way to refine your vision for a new Fisk than to see, hear or play one. You will find Fisk pipe organs in many locations across the U.S. and several overseas. We would be happy to put you in touch with clients whose instruments are similar to what you are envisioning and help arrange a visit. Our clients are in the best position to offer an unbiased view of what it is like to work with us, how their project unfolded, and the results of our efforts.
+
+If you are able, we invite you to visit our workshop in Gloucester, MA, meet our team and see what we are working on. There are several landmark Fisk organs in the area that we would be pleased to show you.
+
+> Testamonial:
+
+> Bryan Mock – Op.146??
 
 [Back to top](#our-process)
 
@@ -65,9 +69,7 @@ We are always pleased to put you in touch with clients for whom we have already 
 
 ### Proposal and Contract
 
-When you are ready, we make a more formal proposal. Proposals include an organ specification, or stop list, a sample agreement, and a proposed design sketch, as well as other information about the company you may require. Each specification has a price associated with it, and a suggested schedule of payments, as well as a description of how the various stops will answer your specific needs.
-
-Each of these proposal sections is our best suggestion for your specific needs, but is not by any means our final word on what should be done. In fact, the proposal, sometimes the first concrete step toward the realization of a dream, often stimulates deeper discussion, illuminates challenges not heretofore recognized, and clarifies what work is still to be done. Almost every specification is a balance of wishes and means. We expect and welcome further conversation. The sample agreement will be from a template we have used many times to codify the responsibilities of C. B. Fisk and the customer. The dates of delivery will be based upon our extensive experience in rational scheduling and in keeping our promises. Costs will likewise be clearly stated, and we will be ready to clarify those items included in the agreement and those that are not. When we come to complete consensus a contract can be signed.
+Our discussions progress as we ask and answer important questions of each other. We'll want to know the size and uses of your facility. How many people does it seat, its rough dimensions, are architectural drawings available, what kinds of repertoire are most often played, and much more. It is often advisable to schedule a site visit where we can see your venue and discuss the possibilities in greater detail. When we have come to a thorough understanding of your requirements and wishes we can present a formal proposal. This will include a stop list and the rational behind it, a design concept sketch, a sample contract, costs and other terms and conditions. The proposal is our best suggestion for your particular needs. While it is detailed, our proposal is not the final word. It may well stimulate deeper discussion, illuminate challenges and clarify what work remains to be done. Every organ specification is a balance of wishes and means and therefore every Fisk is unique. We expect and welcome further conversation. When we come to complete consensus, a clear and concise contract can be signed with confidence.
 
 [Back to top](#our-process)
 
