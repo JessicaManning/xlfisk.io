@@ -11,3 +11,18 @@ It is often said that an organ is only as good as the room it is in. In consider
 ### Tonal Design
 
 The goal for the major organ at a music school is that it be able to convincingly play many centuries-worth of music of many different compositional styles.  Though Opus 135 does indeed “lean toward the French”, that is the 19th-century work of Aristide Cavaille-Cöll, its pipework is varied enough to cover organ literature from Sweelinck to Couperin to Bach to Messaien to Lauridsen with great authenticity.
+
+
+### Key Action
+
+Over many instruments and many decades, we have proven that mechanical action, which responds to the players touch, can be very successfully used in even large concert instruments.  The use of the Kowalyshyn Servo-pneumatic Machine in these instruments means that even with 3 or 4 manuals coupled together, the action remains sensitive and light enough for even the quickest virtuoso playing.  
+
+### Reliability, durability and ease of maintenance
+
+A recital organ in a conservatory setting must serve the demanding musical requirements of the faculty and students and must do so reliably. The Jacobs School of Music hosts the largest Organ program in the country. In an average week Op. 135 will be played between 60-70 hours by over 40 organists. The layout of the organ reflects our recognition that pipework and components must be accessible for efficient tuning and maintenance.
+
+> Testamonial:
+>
+> "This organ is at the center of the department’s pedagogical and performance life. So much so that it is reserved for practice and recitals for 18 hours per day nearly everyday of the academic year. Reliability and artistic integrity were both goals of utmost importance in the commission of this magnificent instrument."
+>
+> -David Kazimir
