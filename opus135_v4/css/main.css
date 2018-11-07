@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+body {
+  !background:#1c1c1c;
+  background:#212121;
+  font-family: 'Lato', Calibri, serif;
+  color:black;
+  padding:0;
+  margin:0;
+  font-size:1em;
+}
+
+header {
+  height:5em;
+  background:black;
+  position:sticky;
+}
+
+header img {
+  height:3em;
+  width:auto;
+  padding:1em;
+}
+
+div.container {
+  margin:0 auto;
+  max-width:100%;
+}
+
+article {
+  background:#373737;
+  color:white;
+}
+
+figure.opus,
+figure.pipes,
+figure.key-action,
+figure.school {
+  text-align:center;
+  padding:0;
+  margin:0;
+}
+
+figure.opus img,
+figure.pipes img,
+figure.key-action img,
+figure.school img {
+  max-width:100%;
+  height:auto;
+}
+
+
+
+h1#case-study {
+  text-align:center;
+}
+
+h1, h2, h3 {
+  font-family:'Cabin'
+}
+
+h1#case-study {
+  background:#c29709;
+  padding:1em 0;
+  margin:0;
+}
+
+h1#hours-1 {
+  background:black;
+  padding:1em 0;
+  margin:0;
+}
+
+h1#hours-1 {
+  text-align:center;
+  color:#c29709;
+}
+
+h1#hours-1 span.eighteen {
+  font-size:215%;
+  color:#c29709;
+}
+h1#hours-2 {
+  background:black;
+  padding:1em 0;
+  margin:0;
+}
+
+h1#hours-2 {
+  text-align:center;
+  color:#c29709;
+}
+
+h1#hours-2 span.personhours {
+  font-size:215%;
+  color:#c29709;
+}
+
+h2#jacobs-school {
+  font-size: 1.25em;
+  }
+
+blockquote.testimonial {
+  font-style: italic;
+  font-size:105%;
+}
+
+figcaption {
+  font-style:italic;
+  font-size:80%;
+  padding:0.5em 0;
+}
+
+h3 {
+  font-size:1.4em;
+  color:#c29709;
+  padding: 0 1em;
+}
+
+h3#a-fresh-start {
+  padding:1em 1em 0;
+}
+
+p {
+  padding: 1em;
+  font-size:1.1em;
+}
