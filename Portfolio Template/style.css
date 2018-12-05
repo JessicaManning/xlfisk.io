@@ -84,6 +84,7 @@ body {
 }
 
 .email {
+font-family: 'Coiny', cursive;
 font-weight: 200;
 font-size: 2em;
 color: white;
@@ -105,6 +106,7 @@ a.mail {
   text-transform: uppercase;
   font-weight: 800;
   font-size: 3em;
+  font-family: 'Coiny', sans-serif;
   margin-bottom: 0;
 }
 
@@ -187,24 +189,20 @@ a.mail {
   -moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
 }
-h3 {
-  font-weight: 150;
-  font-size: 1rem;
-  font-family: 'Francois One', sans-serif;
+
+h2 {
+  font-weight: 200;
+  font-size: 2rem;
+  font-family: 'Coiny', sans-serif;
   color: #9a49ee;
   text-transform: uppercase;
   text-align: center;
 }
 
-
-
-h2 {
-  font-weight: 200;
-  font-size: 2rem;
-  font-family: 'Francois One', sans-serif;
-  color: #9a49ee;
-  text-transform: uppercase;
-  text-align: center;
+h3 {
+  font-size:1.7em;
+  font-family: 'Boogaloo', sans-serif;
+  color:#9a49ee;
 }
 
 .content-body {
@@ -221,7 +219,7 @@ h2 {
 .card {
   display: flex;
   flex-direction: column;
-  background-color: #c87aff;
+  background-color: #be60ff;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
   margin-bottom: 30px;
@@ -238,6 +236,7 @@ h2 {
 .card-content {
   padding: .25rem 1.25rem;
   flex: 1 1 auto;
+  color: white;
 }
 
 h4 {
@@ -299,7 +298,8 @@ h4 {
   background: #9a49ee;
   list-style: none;
   cursor: default;
-  font-size: 1.2em;
+  font-size: 1.7em;
+  font-family: 'Boogaloo', sans-serif;
 
 }
 
