@@ -94,6 +94,7 @@ padding-top: 150px;
 
 .more {
   color: #9a49ee;
+font-size: 2em;
 }
 
 a.mail {
@@ -201,7 +202,7 @@ h2 {
 
 h3 {
   font-size:1.7em;
-  font-family: 'Boogaloo', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   color:#9a49ee;
 }
 
@@ -242,9 +243,12 @@ h3 {
 h4 {
   margin: 0;
   font-weight: 400;
-  color: grey;
+  color: black;
 }
 
+.class-education {
+  background-color: #edc8ff;
+}
 .job-title {
   float: right;
 }
@@ -299,7 +303,7 @@ h4 {
   list-style: none;
   cursor: default;
   font-size: 1.7em;
-  font-family: 'Boogaloo', sans-serif;
+  font-family: 'Varela Round', sans-serif;
 
 }
 
