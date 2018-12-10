@@ -95,6 +95,13 @@ padding-top: 150px;
 .more {
   color: #9a49ee;
 font-size: 2em;
+
+}
+
+.project-more {
+  color: #9a49ee;
+font-size: 1em;
+text-align: center;
 }
 
 a.mail {
